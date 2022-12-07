@@ -1,0 +1,11 @@
+public class j1
+{
+    public static void main(String[]args)
+    {
+        int[] a=new int[10];
+    }
+    public int findEl(int arr[], int target){
+        
+    }
+    
+}
